@@ -1,6 +1,6 @@
  College Projects
 
-Two Python projects I made for my Computer Engineering classes at ICCT Antipolo. Both use CustomTkinter for the GUI.
+Two Python projects we made for my Computer Engineering classes at ICCT Antipolo. Both use CustomTkinter for the GUI.
 
  CPU Scheduling Simulator
 
